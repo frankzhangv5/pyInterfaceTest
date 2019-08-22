@@ -3,12 +3,16 @@ python interface framework(unittest + HTMLTestRunner + Xlsx)
 
 
 ## 1. Setup Project
+```
 cd path/to/pyInterfaceTest
 pip install -r requirements.txt
+```
 
 ## 2. Run testcase
+```
 cd path/to/pyInterfaceTest
 python main.py
+```
 
 ## 3. add your own testcases
 just add your unit testcase to testcases dir
