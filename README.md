@@ -1,5 +1,5 @@
 # pyInterfaceTest
-python2.7 interface framework(unittest + HTMLTestRunner + Xlsx)
+python2.7 interface test framework(unittest + HTMLTestRunner + Xlsx)
 
 
 ## 1. Setup Project
